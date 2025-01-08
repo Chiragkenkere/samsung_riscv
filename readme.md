@@ -17,3 +17,9 @@
 ![image_alt](https://github.com/Chiragkenkere/samsung_riscv/blob/60aff8d95440c69f353e36beca910f7d8e8eddf8/C-code_output.jpeg)
 
 </details>
+
+<details>
+<summary> Task-1: RISC-V based lab screenshots </summary>
+<br>
+
+![image_alt](

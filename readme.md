@@ -24,6 +24,6 @@
 
 ![image_alt](https://github.com/Chiragkenkere/samsung_riscv/blob/78afb23f67a2a40dbf2336174575b4a615a695d7/Riscv_command.jpeg)
 
-![image_alt](
+![image_alt](https://github.com/Chiragkenkere/samsung_riscv/blob/148de9479fc9267f7fe0c2d9e4dc76744311ab77/riscv_O1_output.jpeg)
 
 ![image_alt](

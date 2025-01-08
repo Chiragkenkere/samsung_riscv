@@ -6,3 +6,12 @@
 ### Name: Chirag M
 ### College: The National Institute Of Engineering
 ### Email ID: kenkerechirag@gmail.com
+
+# TASK1 
+<details>
+<summary> Task-1: C based lab screenshots </summary>
+<br>
+https://github.com/Chiragkenkere/samsung_riscv/blob/main/C_code.jpeg?raw=true
+https://github.com/Chiragkenkere/samsung_riscv/blob/main/C-code_output.jpeg?raw=true
+
+</details>

@@ -11,7 +11,7 @@
 <details>
 <summary> Task-1: C based lab screenshots </summary>
 <br>
-![t1_1](https://github.com/Chiragkenkere/samsung_riscv/blob/main/C_code.jpeg)
+![t1_1](https://github.com/Chiragkenkere/samsung_riscv/blob/f4b02a2d079299068b25d2ff50cddfaaec37ef16/C_code.jpeg)
 ![t1_2](https://github.com/Chiragkenkere/samsung_riscv/blob/main/C-code_output.jpeg)
 
 </details>
